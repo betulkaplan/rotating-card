@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  background-image: linear-gradient(orange, rgb(200, 30, 110));
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
