@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rotating-card/static/css/main.5e1a7514.chunk.css",
+    "main.js": "/rotating-card/static/js/main.9069dfae.chunk.js",
+    "main.js.map": "/rotating-card/static/js/main.9069dfae.chunk.js.map",
+    "runtime-main.js": "/rotating-card/static/js/runtime-main.575e8643.js",
+    "runtime-main.js.map": "/rotating-card/static/js/runtime-main.575e8643.js.map",
+    "static/js/2.49599b2d.chunk.js": "/rotating-card/static/js/2.49599b2d.chunk.js",
+    "static/js/2.49599b2d.chunk.js.map": "/rotating-card/static/js/2.49599b2d.chunk.js.map",
+    "static/js/3.c2a0e5f6.chunk.js": "/rotating-card/static/js/3.c2a0e5f6.chunk.js",
+    "static/js/3.c2a0e5f6.chunk.js.map": "/rotating-card/static/js/3.c2a0e5f6.chunk.js.map",
+    "index.html": "/rotating-card/index.html",
+    "static/css/main.5e1a7514.chunk.css.map": "/rotating-card/static/css/main.5e1a7514.chunk.css.map",
+    "static/js/2.49599b2d.chunk.js.LICENSE.txt": "/rotating-card/static/js/2.49599b2d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rotating-card/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.575e8643.js",
+    "static/js/2.49599b2d.chunk.js",
+    "static/css/main.5e1a7514.chunk.css",
+    "static/js/main.9069dfae.chunk.js"
+  ]
+}
